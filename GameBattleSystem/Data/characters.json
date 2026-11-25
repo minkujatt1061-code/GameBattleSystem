@@ -1,0 +1,6 @@
+[
+  { "characterType": "Knight", "Id": 1, "Name": "Sir Aldric",      "MaxHealth": 120, "Health": 120, "Attack": 18, "Defence": 12 },
+  { "characterType": "Archer", "Id": 2, "Name": "Lyra Swiftarrow", "MaxHealth": 90,  "Health": 90,  "Attack": 24, "Defence": 6 },
+  { "characterType": "Mage",   "Id": 3, "Name": "Elric the Wise",  "MaxHealth": 80,  "Health": 80,  "Attack": 20, "Defence": 5 },
+  { "characterType": "Knight", "Id": 4, "Name": "Brienne",         "MaxHealth": 130, "Health": 130, "Attack": 16, "Defence": 14 }
+]
